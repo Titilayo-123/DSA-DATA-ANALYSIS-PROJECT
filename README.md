@@ -10,4 +10,8 @@ This project for me was never going to happen if there was no extention to the t
 
 I did the Amazon Product Review Analysis on the Microsoft excel pivoting All my analysis. My dasboard is not the best I should do but Beyond this is my schedule to revisit and do better. 
 
-Here is my workdone {download here}(
+Here is my workdone ([Amazon case study.xlsx](https://github.com/user-attachments/files/21336391/Amazon.case.study.xlsx))
+I lookforward to doing better. Thank for the opportunity
+I would like to crave your induglence to kindly allow me find favour to be added to the masterclass.
+
+Regards
